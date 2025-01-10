@@ -1,7 +1,7 @@
 import "./App.css";
 import { motion } from "framer-motion";
-import image1 from "./assets/Right-Image.png";
-import image2 from "./assets/Bottom-Image.png";
+import image1 from "./assets/Right-Image.webp";
+import image2 from "./assets/Bottom-Image.webp";
 
 function App() {
   return (
