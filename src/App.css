@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Disket Mono';
+  src: url('./fonts/Disket-Mono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Disket Mono', monospace;
+  color: white;
+  background-color: #CB4C2A;
+}
